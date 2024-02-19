@@ -1,0 +1,2 @@
+Goo link:
+https://docs.oracle.com/en/java/javase/21/language/preface.html#GUID-840E8268-A821-4BCE-83FE-A4ACAAED68DA
